@@ -1,0 +1,11 @@
+{
+	"files.exclude": {
+		"/home/robin/Dev/Unreal/mcgamejam2018Final 4.19/.git": true,
+		"/home/robin/Dev/Unreal/mcgamejam2018Final 4.19/.idea": true,
+		"/home/robin/Dev/Unreal/mcgamejam2018Final 4.19/.kdev4": true,
+		"/home/robin/Dev/Unreal/mcgamejam2018Final 4.19/.vscode": true,
+		"/home/robin/Dev/Unreal/mcgamejam2018Final 4.19/Content": true,
+		"/home/robin/Dev/Unreal/mcgamejam2018Final 4.19/Intermediate": true,
+		"/home/robin/Dev/Unreal/mcgamejam2018Final 4.19/Saved": true
+	}
+}
